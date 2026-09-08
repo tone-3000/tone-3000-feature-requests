@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: TONE3000 plugin
+    url: https://github.com/tone-3000/tone3000-plugin/issues
+    about: The plugin (VST3, AU, CLAP, Standalone) and how it behaves in your DAW.
+  - name: Tone player
+    url: https://github.com/tone-3000/neural-amp-modeler-wasm/issues
+    about: The in-browser player. Playback, model loading, and DSP.
+  - name: NAM Core
+    url: https://github.com/sdatkinson/NeuralAmpModelerCore
+    about: NAM inference library. Upstream, not maintained by TONE3000.
+  - name: NAM trainer
+    url: https://github.com/sdatkinson/neural-amp-modeler
+    about: Training NAM captures and the trainer app. Upstream, not maintained by TONE3000.
+  - name: TONE3000 support
+    url: mailto:support@tone3000.com
+    about: Account questions, takedowns, or anything you would rather keep private.
