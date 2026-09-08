@@ -13,5 +13,5 @@ contact_links:
     url: https://github.com/sdatkinson/neural-amp-modeler
     about: Training NAM captures and the trainer app. Upstream, not maintained by TONE3000.
   - name: TONE3000 support
-    url: mailto:support@tone3000.com
-    about: Account questions, takedowns, or anything you would rather keep private.
+    url: https://www.tone3000.com
+    about: Email support@tone3000.com for account questions, takedowns, or anything private.

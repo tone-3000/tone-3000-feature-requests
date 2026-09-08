@@ -1,6 +1,6 @@
 # TONE3000 Feature Requests
 
-Public inbound for the **TONE3000 website** at [tone3000.com](https://tone3000.com).
+Public inbound for the **TONE3000 website** at [tone3000.com](https://www.tone3000.com).
 Open an issue here to report a bug or request a feature.
 
 There is no code in this repo. It exists so reports and requests are public and
