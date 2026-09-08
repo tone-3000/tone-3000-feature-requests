@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: TONE3000 plugin
     url: https://github.com/tone-3000/tone3000-plugin/issues
